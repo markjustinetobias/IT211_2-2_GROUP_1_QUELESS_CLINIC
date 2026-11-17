@@ -28,12 +28,12 @@ QueLess-Clinic/
 - Make clinic services more efficient.
 
 ## Project Team
-Mark Justine Tobias - Project Manager
-Dan Nikko Ong - Lead Developer
-Jave Abejuela - Backend Developer
-Lexor Sambajon - Frontend Development
-Charles Bosito - Documentation
-Jonas Baconawa - Tester
+- Mark Justine Tobias - Project Manager
+- Dan Nikko Ong - Lead Developer
+- Jave Abejuela - Backend Developer
+- Lexor Sambajon - Frontend Development
+- Charles Bosito - Documentation
+- Jonas Baconawa - Tester
 
 ## License
 To be determined.
